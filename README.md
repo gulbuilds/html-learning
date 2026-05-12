@@ -1,4 +1,4 @@
-# hTML-learning Repository
+# web-dev-learning Repository
 This repository contains my HTML learning journey and practice projects.
 ## Topics Covered
 - Headings
