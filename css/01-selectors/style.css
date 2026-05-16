@@ -1,0 +1,17 @@
+
+/* Element selector - targets all h1 tags */
+h1 {
+  color: dodgerblue;
+}
+
+/* Class selector - targets elements with class="highlight" */
+.highlight {
+  background-color: lightyellow;
+  padding: 10px;
+}
+
+/* ID selector - targets element with id="special" */
+#special {
+  border: 2px solid red;
+  padding: 10px;
+}
