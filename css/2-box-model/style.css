@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.box1 {
+  background: lightblue;
+  padding: 30px;  /* andar ka space */
+  border: 2px solid blue;
+}
+
+.box2 {
+  background: lightgreen;
+  margin: 30px;  /* bahar ka space */
+  border: 2px solid green;
+}
+
+.box3 {
+  background: lightcoral;
+  padding: 20px;
+  margin: 20px;
+  border: 3px dashed red;
+}
